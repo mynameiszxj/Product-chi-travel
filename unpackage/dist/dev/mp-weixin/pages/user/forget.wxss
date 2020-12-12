@@ -1,0 +1,100 @@
+
+.data-v-f6876770 .uni-page-head .uni-page-head-hd .uni-page-head-btn .uni-btn-icon {
+  font-size: 32rpx;
+  color: #000;
+}
+.content.data-v-f6876770 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  padding-top: 53rpx;
+}
+.content > .header > text.data-v-f6876770 {
+  display: block;
+  line-height: 1;
+}
+.content > .header > text.data-v-f6876770:first-child {
+  margin-left: 56rpx;
+  padding-bottom: 39rpx;
+  font-size: 42rpx;
+  font-weight: bold;
+  color: #000;
+}
+.content > .header > text.data-v-f6876770:last-child {
+  margin-left: 54rpx;
+  font-size: 28rpx;
+  font-weight: 500;
+  color: #999;
+}
+.content > .list.data-v-f6876770 {
+  padding: 30rpx 55rpx 54rpx;
+  color: #333;
+}
+.content > .list > .list-call.data-v-f6876770 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  border-bottom: 2rpx solid #eee;
+  padding-right: 3rpx;
+}
+.content > .list > .list-call > .sl-input.data-v-f6876770 {
+  height: 118rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 32rpx;
+  padding-top: 51rpx;
+  padding-bottom: 36rpx;
+  font-weight: 500;
+}
+.content > .list > .list-call > .sl-input.data-v-f6876770::-ms-input-placeholder {
+  color: #999;
+}
+.content > .list > .list-call > .verify.data-v-f6876770 {
+  padding: 0;
+  margin: 0;
+  line-height: 1;
+  padding-top: 55rpx;
+  padding-right: 3rpx;
+  background-color: #fff;
+  font-size: 26rpx;
+  font-weight: 500;
+  color: #f60;
+}
+.content > .button-login.data-v-f6876770 {
+  height: 90rpx;
+  margin: 0 50rpx;
+  line-height: 90rpx;
+  font-size: 36rpx;
+  font-weight: 500;
+  color: #fff;
+  text-align: center;
+  background: #dfdfdf;
+  -webkit-box-shadow: 0rpx 5rpx 20rpx 0rpx rgba(223, 223, 223, 0.5);
+          box-shadow: 0rpx 5rpx 20rpx 0rpx rgba(223, 223, 223, 0.5);
+  -webkit-border-radius: 45rpx;
+          border-radius: 45rpx;
+}
+.content > .button-hover.data-v-f6876770 {
+  background-color: #f60;
+}
+.content > .input-code.data-v-f6876770 {
+  overflow: hidden;
+  padding: 30rpx 74rpx 64rpx 0;
+  font-size: 26rpx;
+  font-weight: 500;
+  color: #f60;
+}
+.content > .input-code > .navigator.data-v-f6876770 {
+  float: right;
+}
+

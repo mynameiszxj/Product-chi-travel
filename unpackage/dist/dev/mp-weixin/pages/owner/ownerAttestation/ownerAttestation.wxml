@@ -1,0 +1,1 @@
+<view class="owner_attestation data-v-647b918a"><uni-steps vue-id="2af720bc-1" options="{{[{title:'身份证'},{title:'驾驶证'},{title:'行驶证'}]}}" active="{{0}}" active-color="#FF6600" class="data-v-647b918a" bind:__l="__l"></uni-steps><attestation vue-id="2af720bc-2" class="data-v-647b918a" bind:__l="__l"></attestation></view>

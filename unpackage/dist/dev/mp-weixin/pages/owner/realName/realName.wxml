@@ -1,0 +1,1 @@
+<view class="real_name_attestation data-v-5d9c1b0a"><attestation vue-id="55e7c73c-1" class="data-v-5d9c1b0a" bind:__l="__l"></attestation><navigator class="submit data-v-5d9c1b0a" url="/pages/owner/realName/fail">提交认证</navigator><view class="privacy data-v-5d9c1b0a">点击提交认证 即表示已阅读并同意哒哒出行<text style="color:#F00;" class="data-v-5d9c1b0a">《隐私条款》</text></view></view>

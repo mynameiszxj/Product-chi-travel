@@ -1,0 +1,46 @@
+.linkman > .set_name.data-v-5ec9e028 {
+  padding: 0 30rpx;
+}
+.linkman > .set_name > view.data-v-5ec9e028 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 110rpx;
+  font-weight: 500;
+  color: #000;
+  border-bottom: 1px solid #eee;
+}
+.linkman > .set_name > view > text.data-v-5ec9e028 {
+  width: 140rpx;
+  margin-right: 30rpx;
+  font-size: 28rpx;
+  text-align: right;
+}
+.linkman > .set_name > view input.data-v-5ec9e028 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.linkman > .set_name > view input.data-v-5ec9e028:-moz-placeholder,
+.linkman > .set_name > view input.data-v-5ec9e028:-ms-input-placeholder {
+  font-size: 26rpx;
+  font-weight: 400;
+  color: #999;
+}
+.linkman > .set_name > .save.data-v-5ec9e028 {
+  height: 90rpx;
+  letter-spacing: 10rpx;
+  line-height: 90rpx;
+  margin-top: 88rpx;
+  background: #f60;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  font-size: 32rpx;
+  font-weight: 500;
+  color: #fff;
+  text-align: center;
+}
+

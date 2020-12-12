@@ -1,0 +1,1 @@
+<view class="over data-v-2e28f7e1"><view class="success data-v-2e28f7e1"><image style="width:294rpx;height:228rpx;" src="/static/driver/顺风车-车主/over.png" mode="widthFix" class="data-v-2e28f7e1"></image><view class="data-v-2e28f7e1">发布成功</view></view><navigator class="see_detail data-v-2e28f7e1" url="/pages/owner/goDetail/goDetail">查看发布详情</navigator></view>

@@ -1,0 +1,172 @@
+.car-owner .card-header.data-v-3564d624 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 230rpx;
+  padding-left: 42rpx;
+}
+.car-owner .card-header > image.data-v-3564d624 {
+  width: 142rpx;
+  height: 142rpx;
+}
+.car-owner .card-header .owner-msg.data-v-3564d624 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  color: #000;
+  margin-left: 36rpx;
+}
+.car-owner .card-header .owner-msg > text.data-v-3564d624:first-child {
+  font-size: 34rpx;
+  font-weight: bold;
+}
+.car-owner .card-header .owner-msg > text.data-v-3564d624:nth-child(2) {
+  font-size: 24rpx;
+  font-weight: 500;
+  padding-top: 20rpx;
+  padding-bottom: 23rpx;
+}
+.car-owner .card-header .owner-msg > view > .blue.data-v-3564d624 {
+  color: #0006ff;
+}
+.car-owner .card-header .owner-msg > view > image.data-v-3564d624 {
+  width: 21rpx;
+  height: 21rpx;
+  margin-left: 9rpx;
+}
+.car-owner > .invite.data-v-3564d624 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  height: 84rpx;
+  margin: 0 30rpx;
+  padding: 0 32rpx;
+  background: -webkit-linear-gradient(139deg, #444444 0%, #222222 100%);
+  background: linear-gradient(-49deg, #444444 0%, #222222 100%);
+  -webkit-border-radius: 16rpx 16rpx 0rpx 0rpx;
+          border-radius: 16rpx 16rpx 0rpx 0rpx;
+  font-size: 32rpx;
+  font-weight: 500;
+  color: #fde4b8;
+}
+.car-owner > .invite .invite-left.data-v-3564d624 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.car-owner > .invite .invite-left > image.data-v-3564d624 {
+  width: 36rpx;
+  height: 30rpx;
+  margin-right: 21rpx;
+}
+.car-owner > .invite > .once.data-v-3564d624 {
+  margin: 18rpx 0;
+  width: 130rpx;
+  height: 48rpx;
+  line-height: 48rpx;
+  -webkit-border-radius: 24rpx;
+          border-radius: 24rpx;
+  font-size: 24rpx;
+  text-align: center;
+  color: #333;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAAAwCAYAAADdAaKDAAAFgElEQVR4Xu2cTWxUVRTH/+dNW2OLLSPppgmJMUiEfkSxlDU73SnxI/JRBlxoRBJwYYJfMQYlcSGGysaFGGNMNCS60pVxTS2iKUwnCtFEwwahTGFK23nv/s2b9zHTmdfpa2ntjO9Mmmn6cufO67u/e86595z7F6zAi9d+7pmD7LREhgD0knxAxHQD0k6yxfsKln78N/8SvUv+e7lNxTUGLbzf8P+O6rPUm9+sts+KfqrbhH0G3+F+OmhUfd9x2pTvM+wn4juCe4zTRgDb0EyDuAYLf4K8BGNG51LWj90PP3/1bodRltsBpyY2FIuzw6DsFsFjAKV6kLz/faEH6j0sBaECujqwlFpFTCT/KZ4X8EsR+/POLfuvL2dMlwyCO/udVMsxAgdBtoczM2K2KgjxBjmORagDQjjZSE4T+LQtZZ3oWKKViA0Cx8Za7QdbjwittyFc58FZMdsVhBq359nDapdWdi1LcQ1xQChbWNyGMe9enp3+aHDwxWIcCxELBOYvbTKGX5N8NLAACkK9OGLlY4SlgRBO0AsCPNvVu+/yYjAsCoL9z/guSVlnSNNZ7sznXC2C/0iiA+G1swhhNAzS3IKR4fTAvm/rwVAXhLkbFw9ZglMArJpAUF1DnZVFo1gE/z4IB5bz8vrezCcLwbAgCM6Ni4coMlJaDUT5fwWheUDwB1CAw119w6ejYIgEwZ7KPgmDsyBT4fKvav2uMUIzxAjVAT0NiafT/fu/qYahBgTeGt/i2KlRgOvqLg3VIjSbRQiG87ZTtHds2HYwWwnDPBDIsVbm20cN8MiiS0MFoUlBICD4pWtmZkgqlpbzQHBuZt8AcDyW2VcQmhYEd3wJefP+/uH3AqsQgsBCrscUzW8AOhSExss1LG8fIXrTz19cFtqK9uaObS+U8hQhCM7kxAiEr4TZgcX2CNQiNLVFKFkC4cfpvszhEAQ3gWQM/gJ4r4IQJEobK/u4ChYBJO+0tMpGN1FVsgjOZPYoRD4s733HyCOoRWh+i+Cl7V9ND2ROlkCwb078JMCgghCn1iBOmwbbWfQ2lPzlY7nSwq//GEsPZLZLKUi0+bcbRioIcQY5TpumAoGOubNR7Hxuj4BfVFYP6aohEauGsGqMwF5x8rmTAI8oCJXmM1kgQMwpMfncdwSfUBASDAL4gzj5id8BbFIQEg3CFdc15AF2KgiJBmFKnKlcEW7JeUWFrAaLCYsRSEdBiNwYSyII6hoiqrETBgI4pcGiWgR3P+GKu6H0vYCPa4yQ6GDRXT7qhlJtNVayXAPhjAjzuT1Gt5j9Qp04eYQ4bZoq1+A6g72adNIYwUs6aRo6qvYiOa5BgLH1/ZntXmFKPnsU1MKUcs4+OSDMK0zRUrXqU93JAKGmVM2zChMjoBavBsU8jaaYsho1ixCeTvdlSgXLWs6e3GCx0NbatjkQ1NADLkkFgXwrPZA5XnPAxXseeuQtIa7h16vWH0O9ve/MRYLgXpy9fmlrKiXnQD0E65f9+ouJpQSUjbuhRLJgis5Q3UOwAR32ZPYpCM+CsPRYfGPI661QsOiQfCbWsfgABhXK+N+ddCLEvLSQakpd6RwPBpXOmS8U2oS5hruRzim7ifFdoHwG8L7gWrjdsthBWRXcXCN5vRUW0woGfiaffajVmK9UXi9uzUKjBIu8IGI/17X1gFupXve1qLxe8Gl3aWkm73mNwDGA8TQU1CKslUUoQHCia7rwQaUqSj0SYoMQAlHI9Tizc68TOKASvAsFlGtmEaaN4EybZb2/ahK81TR5otzFYQF3AyrKHaU87zmSVZfgJYTnwf9YlDvKvPhC3TuNsXcIrK2eTD+7SzI8JYk+37fOcxWqzr4kLWahQ4MCSF+mH1kIzs2BKyLT/y+zpRyI5Ru+2wAAAABJRU5ErkJggg==) no-repeat center;
+}
+.car-owner > .owner-list.data-v-3564d624 {
+  font-size: 32rpx;
+  font-weight: 500;
+  color: #000;
+}
+.car-owner > .owner-list > .my-car.data-v-3564d624 {
+  border-top: 15rpx solid #F5F5F5;
+}
+.car-owner > .owner-list > navigator.data-v-3564d624 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 0 31rpx;
+  border-bottom: 1px solid #eee;
+}
+.car-owner > .owner-list > navigator > view.data-v-3564d624 {
+  height: 120rpx;
+  line-height: 120rpx;
+}
+.car-owner > .owner-list > navigator > view:first-child > image.data-v-3564d624 {
+  margin-right: 40rpx;
+}
+.car-owner > .owner-list > navigator > view.data-v-3564d624:last-child {
+  font-size: 26rpx;
+  color: #f60;
+}
+.car-owner > .owner-list > navigator > view:last-child > image.data-v-3564d624 {
+  margin: auto;
+  margin-left: 23rpx;
+}
+.car-owner > .mask.data-v-3564d624 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+}
+.car-owner > .mask > .attestation.data-v-3564d624 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+.car-owner > .mask > .attestation > .content.data-v-3564d624 {
+  width: 556rpx;
+  height: 656rpx;
+  padding: 52rpx 76rpx 49rpx 52rpx;
+  background: #fff;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-border-radius: 30rpx;
+          border-radius: 30rpx;
+  color: #222;
+}
+.car-owner > .mask > .attestation > .content > .content-th.data-v-3564d624 {
+  padding-bottom: 57rpx;
+  font-size: 30rpx;
+  font-weight: bold;
+  color: #222;
+  text-align: center;
+}
+.car-owner > .mask > .attestation > .content > .content-tb.data-v-3564d624 {
+  font-size: 24rpx;
+  font-weight: bold;
+  font-weight: 500;
+  line-height: 40rpx;
+}
+.car-owner > .mask > .attestation > .content > .know.data-v-3564d624 {
+  height: 80rpx;
+  margin: 51rpx 4rpx 0 2rpx;
+  line-height: 80rpx;
+  background: #F60;
+  -webkit-border-radius: 40rpx;
+          border-radius: 40rpx;
+  color: #fff;
+  text-align: center;
+  font-size: 26rpx;
+  font-weight: 500;
+}
+

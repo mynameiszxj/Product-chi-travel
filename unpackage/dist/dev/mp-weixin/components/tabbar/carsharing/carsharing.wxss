@@ -1,0 +1,58 @@
+.sharing-nav.data-v-2790e339 {
+  background: #F5F5F5;
+}
+.sharing-nav > .second-nav.data-v-2790e339 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  height: 77rpx;
+  background-color: #fff;
+  padding: 15rpx 30rpx 11rpx 29rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: #000;
+}
+.sharing-nav > .second-nav > .passenger.data-v-2790e339 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.sharing-nav > .second-nav > .passenger > view.data-v-2790e339 {
+  font-size: 28rpx;
+  font-weight: bold;
+  margin-right: 54rpx;
+}
+.sharing-nav > .second-nav > .passenger > view > .b-bottom.data-v-2790e339 {
+  display: block;
+  height: 4rpx;
+  margin-left: 9rpx;
+  margin-top: 10rpx;
+  background: #fe6600;
+  -webkit-border-radius: 2rpx;
+          border-radius: 2rpx;
+}
+.sharing-nav > .second-nav > .passenger > .color-red.data-v-2790e339 {
+  color: #f60;
+}
+.sharing-nav > .second-nav > .owner.data-v-2790e339 {
+  font-size: 26rpx;
+  font-weight: 500;
+}
+.sharing-nav > .second-nav > .owner > image.data-v-2790e339 {
+  width: 36rpx;
+  height: 36rpx;
+  margin-right: 17rpx;
+}
+.sharing-nav > .tab-cur.data-v-2790e339 {
+  display: none;
+}
+.sharing-nav > .dis.data-v-2790e339 {
+  display: block;
+}
+

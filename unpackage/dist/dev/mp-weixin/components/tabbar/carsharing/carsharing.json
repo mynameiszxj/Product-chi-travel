@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "swiper-item": "/components/swiper/swiper",
+    "passenger": "/pages/passenger/passenger",
+    "driver": "/pages/driver/driver"
+  }
+}

@@ -1,0 +1,96 @@
+.setting.data-v-b6733650 {
+  height: 100%;
+  background: #f5f5f5;
+}
+.setting .set_head.data-v-b6733650 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  height: 166rpx;
+  margin-bottom: 10rpx;
+  padding: 0 32rpx;
+  background: #fff;
+}
+.setting .set_head .head_left.data-v-b6733650 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.setting .set_head .head_left > image.data-v-b6733650 {
+  width: 106rpx;
+  height: 106rpx;
+  padding-top: 29rpx;
+}
+.setting .set_head .head_left > view.data-v-b6733650 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  margin-left: 29rpx;
+}
+.setting .set_head .head_left > view > text.data-v-b6733650:first-child {
+  padding-top: 48rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.96);
+}
+.setting .set_head .head_left > view > text.data-v-b6733650:last-child {
+  font-size: 26rpx;
+  font-weight: 500;
+  color: #999;
+  line-height: 35px;
+}
+.setting .set_head .edit.data-v-b6733650 {
+  width: 90rpx;
+  height: 42rpx;
+  margin-top: 60rpx;
+  line-height: 42rpx;
+  border: 1px solid #ff6600;
+  -webkit-border-radius: 6rpx;
+          border-radius: 6rpx;
+  text-align: center;
+  font-size: 26rpx;
+  font-weight: 500;
+  color: #ff6600;
+}
+.setting .set_info.data-v-b6733650 {
+  margin-bottom: 10rpx;
+  padding: 0 30rpx;
+  background: #fff;
+  font-size: 28rpx;
+  font-weight: 500;
+  color: #000;
+}
+.setting .set_info > navigator.data-v-b6733650 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 107rpx;
+  border-bottom: 1px solid #eee;
+}
+.setting .set_info > navigator > image.data-v-b6733650 {
+  width: 14rpx;
+  height: 22rpx;
+}
+.setting .out_login.data-v-b6733650 {
+  height: 89rpx;
+  line-height: 89rpx;
+  background: #fff;
+  text-align: center;
+  font-size: 32rpx;
+  font-weight: 500;
+  color: #000;
+}
+

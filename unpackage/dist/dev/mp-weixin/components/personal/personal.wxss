@@ -1,0 +1,88 @@
+.personal .personal_header.data-v-5661d204 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 230rpx;
+  padding-left: 42rpx;
+}
+.personal .personal_header ._image.data-v-5661d204 {
+  width: 88rpx;
+  height: 88rpx;
+}
+.personal .personal_header .personal_msg.data-v-5661d204 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  margin-left: 36rpx;
+  color: #333;
+}
+.personal .personal_header .personal_msg ._text.data-v-5661d204:first-child {
+  font-size: 26rpx;
+  font-weight: bold;
+}
+.personal .personal_header .personal_msg ._text.data-v-5661d204:nth-child(2) {
+  font-size: 22rpx;
+  font-weight: 500;
+  padding-top: 16rpx;
+  padding-bottom: 18rpx;
+}
+.personal .personal_header .personal_msg ._view.data-v-5661d204 {
+  font-size: 22rpx;
+  font-weight: 500;
+}
+.personal .personal_header .personal_msg ._view .green.data-v-5661d204 {
+  color: #25d3a5;
+}
+.personal .member.data-v-5661d204 {
+  width: 412rpx;
+  height: 125rpx;
+  margin-left: 30rpx;
+}
+.personal .personal_list .navigator.data-v-5661d204 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 100rpx;
+  padding-left: 30rpx;
+  font-size: 26rpx;
+  font-weight: 500;
+  color: #000;
+}
+.personal .personal_list .image.data-v-5661d204 {
+  width: 36rpx;
+  height: 36rpx;
+  margin-right: 26rpx;
+  vertical-align: bottom;
+}
+.personal .personal_list .wallet.data-v-5661d204,
+.personal .personal_list .real_attes.data-v-5661d204 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding-right: 58rpx;
+}
+.personal .personal_list .wallet .text.data-v-5661d204,
+.personal .personal_list .real_attes .text.data-v-5661d204 {
+  font-size: 24rpx;
+  font-weight: 500;
+  color: #999;
+}
+.personal .p_bottom.data-v-5661d204 {
+  position: fixed;
+  left: 10rpx;
+  bottom: 12rpx;
+}
+

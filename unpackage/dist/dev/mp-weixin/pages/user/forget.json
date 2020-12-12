@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "wechat-login": "/components/wechatLogin/wechatLogin"
+  }
+}

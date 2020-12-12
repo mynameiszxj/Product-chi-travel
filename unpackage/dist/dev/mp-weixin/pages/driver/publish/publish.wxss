@@ -1,0 +1,23 @@
+.over .success.data-v-2e28f7e1 {
+  padding: 150rpx 210rpx 83rpx 248rpx;
+}
+.over .success > view.data-v-2e28f7e1 {
+  margin-left: 27rpx;
+  font-size: 45rpx;
+  font-weight: bold;
+  color: #535353;
+}
+.over .see_detail.data-v-2e28f7e1 {
+  height: 90rpx;
+  margin-left: 210rpx;
+  margin-right: 216rpx;
+  line-height: 90rpx;
+  background: #FF6600;
+  -webkit-border-radius: 45rpx;
+          border-radius: 45rpx;
+  font-size: 30rpx;
+  font-weight: 500;
+  color: #FFF;
+  text-align: center;
+}
+

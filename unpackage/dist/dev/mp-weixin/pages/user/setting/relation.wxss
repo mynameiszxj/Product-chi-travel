@@ -1,0 +1,58 @@
+.relation.data-v-287bf276 {
+  text-align: center;
+}
+.relation > .official.data-v-287bf276 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 120rpx 0 68rpx;
+  margin: 0 30rpx;
+  border-bottom: 1px solid #eee;
+}
+.relation > .official > .attention.data-v-287bf276 {
+  width: 191rpx;
+  height: 194rpx;
+  padding: 7rpx 9rpx 7rpx 8rpx;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+  -webkit-border-radius: 8rpx;
+          border-radius: 8rpx;
+  margin-bottom: 32rpx;
+}
+.relation > .official > .meet.data-v-287bf276 {
+  font-size: 26rpx;
+  font-weight: 500;
+  color: #7f7e7e;
+  padding-bottom: 49rpx;
+}
+.relation > .official > view.data-v-287bf276 {
+  font-size: 28rpx;
+  font-weight: 500;
+  color: #000;
+  padding-bottom: 32rpx;
+}
+.relation > .work_time.data-v-287bf276 {
+  padding-top: 90rpx;
+  font-size: 28rpx;
+  font-weight: 500;
+  color: #333;
+}
+.relation > .work_time > view.data-v-287bf276:first-child {
+  padding-bottom: 50rpx;
+  font-weight: bold;
+  color: #000;
+}
+.relation > .work_time > view.data-v-287bf276:last-child {
+  padding-top: 26rpx;
+}
+

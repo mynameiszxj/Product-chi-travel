@@ -1,0 +1,71 @@
+.my-travel.data-v-2a619532 {
+  height: 100%;
+  background: #f5f5f5;
+}
+.my-travel .travel-list.data-v-2a619532 {
+  padding: 28rpx 30rpx;
+}
+.my-travel .travel-list .travel-item.data-v-2a619532 {
+  background: #ffff;
+  -webkit-box-shadow: 0rpx 0rpx 10rpx 0rpx rgba(153, 153, 153, 0.2);
+          box-shadow: 0rpx 0rpx 10rpx 0rpx rgba(153, 153, 153, 0.2);
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  margin-bottom: 30rpx;
+}
+.my-travel .travel-list .travel-item > .tab-th.data-v-2a619532 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-left: 36rpx;
+  margin-right: 17rpx;
+  padding-top: 34rpx;
+  padding-bottom: 30rpx;
+  border-bottom: 1px solid #eee;
+  font-size: 28rpx;
+  font-weight: 500;
+  color: #999;
+}
+.my-travel .travel-list .travel-item > .tab-th > view:first-child text.data-v-2a619532 {
+  color: #000;
+}
+.my-travel .travel-list .travel-item > .tab-th > view:first-child image.data-v-2a619532 {
+  margin: 0 16rpx;
+  margin-bottom: 5rpx;
+}
+.my-travel .travel-list .travel-item > .tab-th > view.data-v-2a619532:last-child {
+  font-size: 26rpx;
+}
+.my-travel .travel-list .travel-item > .tab-tb.data-v-2a619532 {
+  padding: 30rpx 0 3rpx 30rpx;
+}
+.my-travel .travel-list .travel-item > .tab-tb > view.data-v-2a619532 {
+  font-size: 26rpx;
+  padding-bottom: 26rpx;
+}
+.my-travel .travel-list .travel-item > .tab-tb > view > text.data-v-2a619532:first-child {
+  font-weight: bold;
+  color: #010101;
+}
+.my-travel .travel-list .travel-item > .tab-tb > view > text.data-v-2a619532:last-child {
+  font-weight: 500;
+  color: #000;
+}
+.my-travel .travel-list .travel-item > .nine.data-v-2a619532 {
+  color: #999 !important;
+  padding: 30rpx 0 3rpx 30rpx;
+}
+.my-travel .travel-list .travel-item > .nine > view.data-v-2a619532 {
+  font-size: 26rpx;
+  padding-bottom: 26rpx;
+}
+.my-travel .travel-list .travel-item > .nine > view > text.data-v-2a619532:first-child {
+  font-weight: bold;
+}
+.my-travel .travel-list .travel-item > .nine > view > text.data-v-2a619532:last-child {
+  font-weight: 500;
+}
+

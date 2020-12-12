@@ -1,0 +1,37 @@
+.opinion .description.data-v-70f26422 {
+  padding: 10rpx 30rpx 0;
+}
+.opinion .description .opinion_type.data-v-70f26422 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 30rpx 0;
+  border-bottom: 1px solid #eee;
+}
+.opinion .description .opinion_description .issue.data-v-70f26422 uni-textarea {
+  height: 145rpx;
+  padding-top: 30rpx;
+  font-size: 24rpx;
+  font-weight: 500;
+  color: #999;
+}
+.opinion .description .opinion_description .issue > image.data-v-70f26422 {
+  width: 180rpx;
+  height: 180rpx;
+}
+.opinion .description .submit.data-v-70f26422 {
+  height: 90rpx;
+  margin-top: 154rpx;
+  line-height: 90rpx;
+  background: #ff6600;
+  text-align: center;
+  font-size: 32rpx;
+  font-weight: 500;
+  color: #fff;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+}
+

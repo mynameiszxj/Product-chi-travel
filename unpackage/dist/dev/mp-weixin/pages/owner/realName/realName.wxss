@@ -1,0 +1,20 @@
+.real_name_attestation .submit.data-v-5d9c1b0a {
+  height: 90rpx;
+  margin: 0 30rpx;
+  margin-top: 95rpx;
+  line-height: 90rpx;
+  background: #f60;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+}
+.real_name_attestation .privacy.data-v-5d9c1b0a {
+  padding: 27rpx 0 0 31rpx;
+  font-size: 22rpx;
+  font-weight: 500;
+  color: #333;
+}
+

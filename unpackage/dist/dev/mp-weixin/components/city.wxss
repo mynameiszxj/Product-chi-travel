@@ -1,0 +1,63 @@
+.city.data-v-2ba729a6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  background-color: #fff;
+}
+.city .city-left > view.data-v-2ba729a6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.city .city-left > view > text.data-v-2ba729a6 {
+  display: block;
+  width: 12rpx;
+  height: 12rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+  margin: 44rpx 46rpx 41rpx 31rpx;
+}
+.city .city-left > view > .navigator.data-v-2ba729a6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 96rpx;
+  font-size: 28rpx;
+  color: #333;
+}
+.city .city-left > view > .navigator.data-v-2ba729a6:first-of-type {
+  border-bottom: 1rpx solid #eee;
+}
+.city .city-left > view > .navigator > text.data-v-2ba729a6 {
+  font-weight: bold;
+  color: #333;
+  padding-right: 58rpx;
+}
+.city .city-left > view > .navigator > input.data-v-2ba729a6 {
+  font-size: 28rpx;
+  font-weight: 500;
+}
+.city .city-left > view > .dot-green.data-v-2ba729a6 {
+  background: #21cac8;
+}
+.city .city-left > view > .dot-red.data-v-2ba729a6 {
+  background: #ff5446;
+}
+.city > .toggle > image.data-v-2ba729a6 {
+  width: 49rpx;
+  height: 50rpx;
+  margin-right: 31rpx;
+}
+

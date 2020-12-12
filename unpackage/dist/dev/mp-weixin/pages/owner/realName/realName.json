@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "实名认证",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "attestation": "/pages/component/attestation/attestation"
+  }
+}

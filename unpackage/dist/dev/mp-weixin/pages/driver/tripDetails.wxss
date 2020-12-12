@@ -1,0 +1,100 @@
+.trip_detail .go_city.data-v-efe6afa2 {
+  height: 80rpx;
+  line-height: 80rpx;
+  padding-left: 29rpx;
+  background: #f5f5f5;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #000;
+}
+.trip_detail .go_city > image.data-v-efe6afa2 {
+  width: 37rpx;
+  height: 10rpx;
+  margin-right: 18rpx;
+  margin-left: 12rpx;
+}
+.trip_detail .detail_order.data-v-efe6afa2 {
+  padding-top: 37rpx;
+  padding-right: 33rpx;
+}
+.trip_detail .detail_order > view.data-v-efe6afa2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 26rpx;
+  color: #010101;
+}
+.trip_detail .detail_order > view > view .order_mobile.data-v-efe6afa2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  font-weight: 500;
+}
+.trip_detail .detail_order > view > view.data-v-efe6afa2:first-child {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  width: 100rpx;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.trip_detail .detail_order > view > view:first-child > image.data-v-efe6afa2 {
+  width: 32rpx;
+}
+.trip_detail .detail_order > view > view:first-child .mobile.data-v-efe6afa2 {
+  width: 23rpx;
+}
+.trip_detail .detail_order > view > view.data-v-efe6afa2:last-child {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  width: 100%;
+  padding-bottom: 30rpx;
+}
+.trip_detail .detail_order > view > view:last-child > text.data-v-efe6afa2:first-child {
+  font-weight: bold;
+  margin-right: 30rpx;
+}
+.trip_detail .detail_order > view > view:last-child > text.data-v-efe6afa2:last-child {
+  font-weight: 500;
+}
+.trip_detail .detail_order > view > view:last-child .star.data-v-efe6afa2 {
+  width: 21rpx;
+  height: 21rpx;
+}
+.trip_detail .order_seat.data-v-efe6afa2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 114rpx 30rpx;
+  font-size: 32rpx;
+  font-weight: 500;
+}
+.trip_detail .order_seat .btn.data-v-efe6afa2 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  width: 50%x;
+  height: 80rpx;
+  line-height: 80rpx;
+  background: #fff;
+  border: 1px solid #d1d1d1;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  text-align: center;
+  color: #010101;
+}
+.trip_detail .order_seat .btn.data-v-efe6afa2:first-child {
+  margin-right: 30rpx;
+}
+.trip_detail .order_seat .active.data-v-efe6afa2 {
+  background: #f60;
+  color: #fff;
+  border: 0;
+}
+

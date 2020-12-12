@@ -1,0 +1,12 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-popup": "/uview-ui/components/u-popup/u-popup",
+    "personal": "/components/personal/personal",
+    "car-sharing": "/components/tabbar/carsharing/carsharing",
+    "fast-car": "/components/tabbar/fastcat/fastcat",
+    "specail": "/components/tabbar/specail/specail",
+    "dring": "/components/tabbar/dring/dring",
+    "runleg": "/components/tabbar/runleg/runleg"
+  }
+}

@@ -1,0 +1,9 @@
+
+.recruit {
+	width: 100%;
+	height: 100vh;
+	background: url("/static/driver/司机招募_slices/组 5.png") no-repeat;
+	background-size: cover;
+}
+
+

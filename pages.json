@@ -1,0 +1,389 @@
+{
+	"easycom": {
+		"^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
+	},
+	"pages": [{
+			"path": "pages/startup/firstImgs",
+			"style": {
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/startup/bootImg",
+			"style": {
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/user/forget"
+		},
+		{
+			"path": "pages/user/login",
+			"style": {
+				"navigationStyle": "custom",
+				"app-plus": {
+					"autoBackButton": "false",
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom",
+				"app-plus": {
+					"autoBackButton": "false",
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/user/ident/againsubmit",
+			"style": {
+				"navigationBarTitleText": "实名认证",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/user/ident/over",
+			"style": {
+				"navigationBarTitleText": "实名认证",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/user/ident/ident",
+			"style": {
+				"navigationBarTitleText": "实名认证",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/user/order/list",
+			"style": {
+				"navigationBarTitleText": "我的订单",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/user/order/details",
+			"style": {
+				"navigationBarTitleText": "订单详情",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/user/order/pay",
+			"style": {
+				"navigationBarTitleText": "订单详情",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/user/order/over",
+			"style": {
+				"navigationBarTitleText": "支付完成",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/user/order/sharetrip",
+			"style": {
+				"navigationBarTitleText": "出行详情",
+				"enablePullDownRefresh": false
+			}
+		},
+
+		{
+			"path": "pages/user/order/commint",
+			"style": {
+				"navigationBarTitleText": "评价车主",
+				"enablePullDownRefresh": false
+			}
+		},
+
+		{
+			"path": "pages/user/security/center",
+			"style": {
+				"navigationBarTitleText": "安全中心",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/user/security/linkman",
+			"style": {
+				"navigationBarTitleText": "紧急联系人",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/user/setting/set",
+			"style": {
+				"navigationBarTitleText": "设置",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/user/setting/relation",
+			"style": {
+				"navigationBarTitleText": "联系我们",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/user/setting/userinvite",
+			"style": {
+				"navigationBarTitleText": "邀请好友",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/user/edit/ed",
+			"style": {
+				"navigationBarTitleText": "个人资料",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/profile/address",
+			"style": {
+				"navigationBarTitleText": "常用地址",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/profile/guide",
+			"style": {
+				"navigationBarTitleText": "用户指南",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/profile/opinion",
+			"style": {
+				"navigationStyle": "custom",
+				"app-plus": {
+					"autoBackButton": "false",
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/profile/history",
+			"style": {
+				"navigationBarTitleText": "历史记录",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/profile/particulars",
+			"style": {
+				"navigationBarTitleText": "问题描述",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/profile/platform",
+			"style": {
+				"navigationBarTitleText": "历史记录",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/profile/about",
+			"style": {
+				"navigationBarTitleText": "关于我们",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/passenger/tripList"
+		},
+		{
+			"path": "pages/passenger/tripSubmit",
+			"style": {
+				"navigationBarTitleText": "乘客预约",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/passenger/book",
+			"style": {
+				"navigationBarTitleText": "预定座位",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/component/modifyPhone/modifyPhone",
+			"style": {
+				"navigationBarTitleText": "修改手机号",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/component/setCity/setCity",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/driver/tripHall",
+			"style": {
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/driver/tripDetails",
+			"style": {
+				"navigationBarTitleText": "出行详情",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/driver/share",
+			"style": {
+				"navigationBarTitleText": "出行详情",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/owner/owner",
+			"style": {
+				"navigationBarTitleText": "车主",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/owner/ownerChild/mytravel",
+			"style": {
+				"navigationBarTitleText": "出行详情",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/owner/ownerChild/mycar",
+			"style": {
+				"navigationBarTitleText": "我的车辆",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/owner/ownerChild/mycode",
+			"style": {
+				"navigationBarTitleText": "邀请好友",
+				"enablePullDownRefresh": false
+			}
+		}, {
+			"path": "pages/driver/publish/publish",
+			"style": {
+				"navigationBarTitleText": "邀请好友",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/component/location/location",
+			"style": {
+				"navigationBarTitleText": "查看位置",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/owner/goDetail/goDetail",
+			"style": {
+				"navigationBarTitleText": "出行详情",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/component/journey/journey",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/owner/modifyTrip/modifyTrip",
+			"style": {
+				"navigationBarTitleText": "修改行程",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/owner/finish/finish",
+			"style": {
+				"navigationBarTitleText": "发布成功",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/owner/ownerAttestation/ownerAttestation",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh": false
+			}
+
+		}, {
+			"path": "pages/owner/realName/realName",
+			"style": {
+				"navigationBarTitleText": "实名认证",
+				"enablePullDownRefresh": false
+
+			}
+
+		}, {
+			"path": "pages/owner/realName/fail",
+			"style": {
+				"navigationBarTitleText": "实名认证",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+			"path": "pages/owner/realName/success",
+			"style": {
+				"navigationBarTitleText": "实名认证",
+				"enablePullDownRefresh": false
+			}
+		}
+
+		, {
+			"path": "pages/profile/select/select",
+			"style": {
+				"navigationBarTitleText": "地址选择",
+				"enablePullDownRefresh": false
+			}
+
+		}
+	    ,{
+            "path" : "pages/driver/recruit/recruit",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarBackgroundColor": "#fff",
+		"backgroundColor": "#25D3A5",
+		"app-plus": {
+			"titleNView": {
+				"titleSize": "36rpx",
+				"splitLine": {
+					"height": "1px",
+					"backgroundColor": "#eee"
+				}
+			}
+		},
+		"backgroundColorBottom": "#eee"
+	}
+}

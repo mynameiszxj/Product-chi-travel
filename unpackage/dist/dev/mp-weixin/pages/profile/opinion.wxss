@@ -1,0 +1,59 @@
+.opinion .header_title.data-v-1d2efbb3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  height: 95rpx;
+}
+.opinion .header_title .title.data-v-1d2efbb3 {
+  font-size: 36rpx;
+  font-weight: bold;
+  color: #333;
+}
+.opinion .header_title .title_right.data-v-1d2efbb3 {
+  font-size: 28rpx;
+  font-weight: 500;
+  color: #000;
+}
+.opinion .description.data-v-1d2efbb3 {
+  padding: 10rpx 30rpx 0;
+}
+.opinion .description .opinion_type.data-v-1d2efbb3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 30rpx 0;
+  border-bottom: 1px solid #eee;
+}
+.opinion .description .opinion_description .issue.data-v-1d2efbb3 uni-textarea {
+  height: 145rpx;
+  padding-top: 30rpx;
+  font-size: 24rpx;
+  font-weight: 500;
+  color: #999;
+}
+.opinion .description .opinion_description .issue > image.data-v-1d2efbb3 {
+  width: 180rpx;
+  height: 180rpx;
+}
+.opinion .description .submit.data-v-1d2efbb3 {
+  height: 90rpx;
+  margin-top: 154rpx;
+  line-height: 90rpx;
+  background: #ff6600;
+  text-align: center;
+  font-size: 32rpx;
+  font-weight: 500;
+  color: #fff;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+}
+

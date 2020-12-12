@@ -1,0 +1,254 @@
+
+.status_bar {
+	height: 25px;
+	width: 100%;
+}
+
+.trip-hall.data-v-5c0a221c {
+  background: #f5f5f5;
+}
+.trip-hall .header_title.data-v-5c0a221c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 0 30rpx 0 32rpx;
+  background: #fff;
+  color: #000;
+  height: 46px;
+  border-bottom: 1px solid #EEEEEE;
+}
+.trip-hall .header_title .title.data-v-5c0a221c {
+  font-size: 32rpx;
+  font-weight: bold;
+}
+.trip-hall .header_title .title_right.data-v-5c0a221c {
+  font-size: 30rpx;
+  font-weight: 500;
+  color: #333;
+}
+.trip-hall .today.data-v-5c0a221c {
+  font-weight: bold;
+  color: #010101;
+  font-size: 26rpx;
+}
+.trip-hall .today .title.data-v-5c0a221c {
+  height: 77rpx;
+  line-height: 77rpx;
+  padding-left: 31rpx;
+  font-size: 30rpx;
+  font-weight: bold;
+  color: #fe6600;
+}
+.trip-hall .today .list-car.data-v-5c0a221c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  background-color: #fff;
+  padding: 38rpx 30rpx 0 34rpx;
+  margin-bottom: 10rpx;
+}
+.trip-hall .today .list-car .car-time.data-v-5c0a221c {
+  font-size: 32rpx;
+  text-align: center;
+}
+.trip-hall .today .list-car .car-time > text.data-v-5c0a221c:last-child {
+  font-size: 26rpx;
+}
+.trip-hall .today .list-car .list-right .list-th.data-v-5c0a221c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding-bottom: 32rpx;
+}
+.trip-hall .today .list-car .list-right .list-th > view .seat > text.data-v-5c0a221c:nth-child(2) {
+  font-weight: 500;
+}
+.trip-hall .today .list-car .list-right .list-th > view .seat > text.data-v-5c0a221c:nth-child(3) {
+  font-weight: 500;
+}
+.trip-hall .today .list-car .list-right .list-th > view .seat > text.color-orange.data-v-5c0a221c {
+  color: #f60;
+}
+.trip-hall .today .list-car .list-right .list-th > view .seat > image.data-v-5c0a221c {
+  width: 14rpx;
+  height: 22rpx;
+  margin-left: 15rpx;
+}
+.trip-hall .today .list-car .list-right .list-tb.data-v-5c0a221c {
+  border-bottom: 1px dashed #999;
+}
+.trip-hall .today .list-car .list-right .list-tb > view.data-v-5c0a221c {
+  margin-bottom: 32rpx;
+  line-height: 40rpx;
+}
+.trip-hall .today .list-car .list-right .list-tb > view > text.data-v-5c0a221c:nth-child(2) {
+  font-weight: 500;
+}
+.trip-hall .today .list-car .list-right .list-tb .remaining_seats image.data-v-5c0a221c {
+  width: 21rpx;
+  height: 21rpx;
+}
+.trip-hall .today .list-car .list-right .per_fee.data-v-5c0a221c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+          justify-content: flex-end;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 102rpx;
+  font-size: 24rpx;
+  font-weight: 500;
+  color: #333;
+  text-align: right;
+}
+.trip-hall .today .list-car .list-right .per_fee .order.data-v-5c0a221c {
+  width: 113rpx;
+  height: 46rpx;
+  line-height: 46rpx;
+  margin: 0;
+  margin-left: 14rpx;
+  background: #f60;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  color: #fefefe;
+  font-size: 24rpx;
+  text-align: center;
+}
+.trip-hall .foot.data-v-5c0a221c {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 96rpx;
+  background: #ffffff;
+  -webkit-box-shadow: 0px 5rpx 15rpx 0rpx rgba(0, 0, 0, 0.2);
+          box-shadow: 0px 5rpx 15rpx 0rpx rgba(0, 0, 0, 0.2);
+}
+.trip-hall .foot .foot-left.data-v-5c0a221c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  margin-left: 31rpx;
+}
+.trip-hall .foot .foot-left > text.data-v-5c0a221c:first-child {
+  font-size: 28rpx;
+  font-weight: bold;
+  color: #333;
+}
+.trip-hall .foot .foot-left > text.data-v-5c0a221c:last-child {
+  font-size: 24rpx;
+  font-weight: 500;
+  color: #999;
+}
+.trip-hall .foot .reserve.data-v-5c0a221c {
+  width: 158rpx;
+  height: 46rpx;
+  line-height: 46rpx;
+  margin-right: 31rpx;
+  border: 1px solid #f60;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  text-align: center;
+  font-size: 24rpx;
+  font-weight: 500;
+  color: #f60;
+}
+.tanchu .screen.data-v-5c0a221c {
+  height: 500rpx;
+  padding: 28rpx 34rpx 32rpx 31rpx;
+}
+.tanchu .screen .title.data-v-5c0a221c {
+  font-size: 30rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #333333;
+}
+.tanchu .screen .time .xuan.data-v-5c0a221c {
+  margin-top: 42rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.tanchu .screen .time .xuan .btns.data-v-5c0a221c {
+  width: 156rpx;
+  height: 52rpx;
+  border: 1px solid #EAEAEA;
+  -webkit-border-radius: 6rpx;
+          border-radius: 6rpx;
+  font-size: 26rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #999999;
+  text-align: center;
+  line-height: 52rpx;
+}
+.tanchu .screen .time .xuan .pitch.data-v-5c0a221c {
+  color: #FF6600;
+  background: #FFF5F5;
+  border: 1px solid #FF6600;
+}
+.tanchu .screen .seat.data-v-5c0a221c {
+  margin-top: 42rpx;
+}
+.tanchu .screen .s_btn.data-v-5c0a221c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+          justify-content: flex-end;
+  margin-top: 90rpx;
+}
+.tanchu .screen .s_btn .reset.data-v-5c0a221c {
+  width: 150rpx;
+  height: 56rpx;
+  margin: 0;
+}
+.tanchu .screen .s_btn .yes.data-v-5c0a221c {
+  background: #FF6600;
+  color: #FFFFFF;
+  border: none;
+  margin-left: 30rpx;
+}
+.zhezhao.data-v-5c0a221c {
+  width: 100%;
+  height: calc(100vh - 50px);
+  position: absolute;
+  top: 46px;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+

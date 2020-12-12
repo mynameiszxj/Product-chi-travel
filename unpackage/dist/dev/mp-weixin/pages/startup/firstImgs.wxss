@@ -1,0 +1,103 @@
+.swiper.data-v-44682ca5 {
+  padding-top: 193rpx;
+  width: 100%;
+  height: 100vh;
+}
+.swiper .swiper-box.data-v-44682ca5 {
+  width: 100%;
+  height: 985rpx;
+}
+.swiper .swiper-box .swiper-item.data-v-44682ca5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  text-align: center;
+  margin-top: 20rpx;
+}
+.swiper .swiper-box .swiper-item > image.data-v-44682ca5 {
+  width: 556rpx;
+  height: 556rpx;
+  margin-bottom: 236rpx;
+}
+.swiper .swiper-box .swiper-item .titleText.data-v-44682ca5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  line-height: 1;
+}
+.swiper .swiper-box .swiper-item .titleText text.data-v-44682ca5:nth-of-type(1) {
+  font-size: 40rpx;
+  font-weight: 800;
+  color: #262628;
+  margin-bottom: 36rpx;
+}
+.swiper .swiper-box .swiper-item .titleText text.data-v-44682ca5:nth-of-type(2) {
+  font-size: 28rpx;
+  font-weight: 500;
+}
+.swiper .swiper-box .second text.data-v-44682ca5 {
+  margin: 0 94rpx;
+}
+.swiper .swiper-box .second text.data-v-44682ca5:last-child {
+  line-height: 36rpx;
+}
+.swiper .swiper-box .three.data-v-44682ca5 {
+  width: 556rpx;
+  margin-left: 100rpx;
+}
+.swiper .swiper-box .three text.data-v-44682ca5:last-child {
+  line-height: 36rpx;
+}
+.swiper .dots-container.data-v-44682ca5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.swiper .dots-container .instruct.data-v-44682ca5 {
+  width: 16rpx;
+  height: 16rpx;
+  margin: 0 16rpx;
+  border: 2px solid #25D3A5;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+}
+.swiper .dots-container .instruct.active.data-v-44682ca5 {
+  background-color: #25D3A5;
+}
+.swiper .start.data-v-44682ca5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  text-align: center;
+}
+.swiper .start .btn.data-v-44682ca5 {
+  width: 380rpx;
+  height: 90rpx;
+  line-height: 90rpx;
+  -webkit-border-radius: 16px;
+          border-radius: 16px;
+  font-size: 34rpx;
+  color: #fff;
+  background: #25D3A5;
+}
+

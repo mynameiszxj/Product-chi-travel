@@ -1,0 +1,14 @@
+.platform.data-v-32b553dc {
+  padding-top: 43rpx;
+  padding-left: 31rpx;
+}
+.platform > view.data-v-32b553dc {
+  font-size: 28rpx;
+  font-weight: 500;
+  color: #333333;
+}
+.platform > text.data-v-32b553dc {
+  font-size: 24rpx;
+  color: #E74A45;
+}
+

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "出行详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "city": "/components/city"
+  }
+}

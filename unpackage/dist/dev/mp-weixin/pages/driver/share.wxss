@@ -1,0 +1,104 @@
+.share.data-v-a0b8af9e {
+  height: 100%;
+  background: #f5f5f5;
+}
+.share .detail_order.data-v-a0b8af9e {
+  padding: 30rpx 35rpx 0 15rpx;
+  padding-top: 30rpx;
+  background-color: #fff;
+  font-size: 26rpx;
+}
+.share .detail_order .star_place.data-v-a0b8af9e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-weight: bold;
+  color: #010101;
+}
+.share .detail_order .star_place > view.data-v-a0b8af9e:last-child {
+  margin-left: 20rpx;
+}
+.share .detail_order .star_place > view:last-child > image.data-v-a0b8af9e {
+  width: 37rpx;
+  height: 10rpx;
+}
+.share .detail_order > view.data-v-a0b8af9e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding-bottom: 30rpx;
+}
+.share .detail_order > view .order_click.data-v-a0b8af9e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.share .detail_order > view > text.data-v-a0b8af9e:first-child {
+  margin-right: 20rpx;
+  font-weight: bold;
+  color: #010101;
+}
+.share .detail_order > view > text.data-v-a0b8af9e:last-child {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+          justify-content: flex-start;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  font-weight: 500;
+}
+.share .detail_order .license > view.data-v-a0b8af9e {
+  font-weight: bold;
+}
+.share .detail_order .star > image.data-v-a0b8af9e {
+  width: 21rpx;
+  height: 21rpx;
+}
+.share .forward.data-v-a0b8af9e {
+  padding-top: 44rpx;
+  text-align: center;
+}
+.share .forward .red.data-v-a0b8af9e {
+  font-size: 26rpx;
+  color: #f00;
+}
+.share .forward > view.data-v-a0b8af9e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 39rpx 30rpx;
+  font-size: 32rpx;
+  font-weight: 500;
+}
+.share .forward > view .btn.data-v-a0b8af9e {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  width: 50%x;
+  height: 80rpx;
+  line-height: 80rpx;
+  background: #fff;
+  border: 1px solid #d1d1d1;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  color: #010101;
+}
+.share .forward > view .btn.data-v-a0b8af9e:first-child {
+  margin-right: 20rpx;
+}
+.share .forward > view .active.data-v-a0b8af9e {
+  background: #f60;
+  color: #fff;
+  border: 0;
+}
+

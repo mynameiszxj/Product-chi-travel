@@ -1,0 +1,188 @@
+.journey.data-v-208e49b6 {
+  background-color: #fff;
+}
+.journey .detail_trip > view.data-v-208e49b6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.journey .detail_trip > view > view.data-v-208e49b6:first-child {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  width: 100rpx;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.journey .detail_trip > view > view:first-child > image.data-v-208e49b6 {
+  padding-top: 30rpx;
+  width: 32rpx;
+}
+.journey .detail_trip > view > view.data-v-208e49b6:last-child {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  width: 100%;
+  padding: 31rpx 31rpx 32rpx 0;
+  border-bottom: 1px solid #eee;
+}
+.journey .detail_trip > view > view:last-child > text.data-v-208e49b6 {
+  color: #010101;
+  font-size: 26rpx;
+}
+.journey .detail_trip > view > view:last-child > text.data-v-208e49b6:first-child {
+  font-weight: bold;
+  margin-right: 30rpx;
+}
+.journey .detail_trip > view > view:last-child > text.data-v-208e49b6:last-child {
+  font-weight: 500;
+}
+.journey .detail_trip > view > view .text_yu.data-v-208e49b6 {
+  width: 70%;
+  height: 116rpx;
+  font-size: 26rpx;
+}
+.journey .detail_trip .car-type > view.data-v-208e49b6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.journey .detail_trip .car-type > view > image.data-v-208e49b6 {
+  padding-top: 0 !important;
+}
+.journey .affirm.data-v-208e49b6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 73rpx;
+  border-top: 1px solid #eee;
+  padding-left: 30rpx;
+  padding-right: 32rpx;
+}
+.journey .affirm > input.data-v-208e49b6 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  font-size: 22rpx;
+  font-weight: 500;
+  color: #999;
+}
+.journey .affirm .modify_phone.data-v-208e49b6 {
+  font-size: 24rpx;
+  font-weight: 500;
+  color: #f60;
+}
+.journey .mask.data-v-208e49b6 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  width: 100%;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.6);
+}
+.journey .mask .popup.data-v-208e49b6 {
+  width: 100%;
+  height: 469rpx;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: #fff;
+  font-size: 32rpx;
+  font-weight: 500;
+  color: #999;
+}
+.journey .mask .popup .popup_th.data-v-208e49b6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 80rpx;
+  padding: 0 20rpx;
+  border-bottom: 1px solid #eee;
+  font-size: 28rpx;
+}
+.journey .mask .popup .popup_th .popup_title.data-v-208e49b6 {
+  font-size: 32rpx;
+  color: #000;
+}
+.journey .mask .popup .popup_tb.data-v-208e49b6 {
+  padding: 100rpx 0 80rpx;
+}
+.journey .mask .popup .popup_tb .select.data-v-208e49b6 {
+  height: 180rpx;
+  font-weight: 500;
+  color: #000;
+}
+.journey .mask .popup .popup_tb .select .item.data-v-208e49b6 {
+  padding: 0 50rpx;
+  line-height: 60rpx;
+  text-align: center;
+}
+
+.modify_trip.data-v-9a50cb6c {
+  background: #f5f5f5;
+}
+.modify_trip > .order_seat.data-v-9a50cb6c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 41rpx 30rpx;
+}
+.modify_trip > .order_seat > .btn.data-v-9a50cb6c {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  width: 50%x;
+  height: 80rpx;
+  line-height: 80rpx;
+  border: 1px solid #999;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  text-align: center;
+  color: #333;
+  font-size: 32rpx;
+  font-weight: 500;
+}
+.modify_trip > .order_seat > .btn.data-v-9a50cb6c:first-child {
+  margin-right: 30rpx;
+}
+.modify_trip > .order_seat .active.data-v-9a50cb6c {
+  background: #f60;
+  color: #fff;
+  border: 0;
+}
+.modify_trip > .finish.data-v-9a50cb6c {
+  height: 90rpx;
+  margin: 30rpx;
+  line-height: 90rpx;
+  border: 1px solid #999999;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #333333;
+  text-align: center;
+}
+.modify_trip > .notice.data-v-9a50cb6c {
+  padding: 0 34rpx 183rpx 31rpx;
+  font-size: 22rpx;
+  font-weight: 500;
+  color: #666;
+}
+

@@ -1,0 +1,66 @@
+.user_travel.data-v-0822b29a {
+  background-color: #f5f5f5;
+}
+.user_travel .all_trip.data-v-0822b29a {
+  padding: 108rpx 30rpx 29rpx;
+}
+.user_travel .all_trip > view.data-v-0822b29a {
+  margin-bottom: 30rpx;
+  padding-left: 35rpx;
+  padding-right: 17rpx;
+  background-color: #fff;
+  -webkit-box-shadow: 0rpx 0rpx 10rpx 0rpx rgba(153, 153, 153, 0.2);
+          box-shadow: 0rpx 0rpx 10rpx 0rpx rgba(153, 153, 153, 0.2);
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+}
+.user_travel .all_trip > view .tab_title.data-v-0822b29a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  height: 90rpx;
+  padding-left: 1rpx;
+  line-height: 90rpx;
+  border-bottom: 1px solid #eee;
+}
+.user_travel .all_trip > view .user_detail.data-v-0822b29a {
+  overflow: hidden;
+  padding: 30rpx 0 29rpx 0;
+  font-size: 26rpx;
+}
+.user_travel .all_trip > view .user_detail .go_city.data-v-0822b29a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.user_travel .all_trip > view .user_detail .go_city .gray.data-v-0822b29a {
+  color: #999;
+}
+.user_travel .all_trip > view .user_detail > view.data-v-0822b29a {
+  padding-bottom: 26rpx;
+}
+.user_travel .all_trip > view .user_detail > view > text.data-v-0822b29a:first-child {
+  font-weight: bold;
+  color: #010101;
+}
+.user_travel .all_trip > view .user_detail > view > text.data-v-0822b29a:last-child {
+  font-weight: 500;
+  color: #000;
+}
+.user_travel .all_trip > view .user_detail .button.data-v-0822b29a {
+  float: right;
+  width: 140rpx;
+  height: 50rpx;
+  line-height: 50rpx;
+  font-size: 22rpx;
+  text-align: center;
+  font-weight: 500;
+  color: #f60;
+  border: 1px solid #ff6600;
+  -webkit-border-radius: 25rpx;
+          border-radius: 25rpx;
+}
+
